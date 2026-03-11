@@ -17,7 +17,7 @@ std::vector<Patch> patches = {
 
 	{0x65C7FB, {0xC8}, {0x01}, "Remove patch number limit."},
 	{0x65C808, {0x7D}, {0xEB}, "Unlock FrameXML and Blizzard interface addons."},
-	{0x7D7E71, {0x06}, {0x38}, "Enable test realm connection mode."},
+	{0x7D7E71, {0x06}, {0x38}, "Bypassing FrameXML modification detection."},
 
 	{0x3A3C60, {0x40}, {0x00}, "CDN auth - clear authentication parameter."},
 	{0x5AC968, {0x01}, {0xFF}, "CDN receive - raise acceptable size threshold."},
