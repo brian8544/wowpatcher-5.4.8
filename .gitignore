@@ -412,3 +412,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+x64/Release/Wow-64.exe
+x64/Release/Wow-64-patched.exe
